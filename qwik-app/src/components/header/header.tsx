@@ -28,6 +28,11 @@ export default component$(() => {
             Tutorials
           </a>
         </li>
+        <li>
+          <a href="/todolist/">
+            To-Do List
+          </a>
+      </li>
       </ul>
     </header>
   );
